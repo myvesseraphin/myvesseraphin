@@ -51,10 +51,9 @@ I am a Software Engineering student at **Rwanda Coding Academy** specializing in
 
 ### 05 . Fun Fact & Stats
 - **Fun Fact:** I don't just write code; I design the circuits it runs on. I enjoy the challenge of hardware-level optimization.
-
+  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=myvesseraphin&show_icons=true&theme=transparent&title_color=2196F3&text_color=ffffff&icon_color=2196F3&hide_border=true&count_private=true&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myvesseraphin&layout=compact&theme=transparent&title_color=2196F3&text_color=ffffff&icon_color=2196F3&hide_border=true" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=myvesseraphin&theme=react-light&area=true&hide_border=true&custom_title=%F0%9F%94%A5%20Coding%20Activity%20%F0%9F%94%A5" width="100%" />
 </p>
 
 ---
