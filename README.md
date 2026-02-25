@@ -53,7 +53,7 @@ I am a Software Engineering student at **Rwanda Coding Academy** specializing in
 - **Fun Fact:** I don't just write code; I design the circuits it runs on. I enjoy the challenge of hardware-level optimization.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=myvesseraphin&show_icons=true&theme=transparent&title_color=2196F3&text_color=ffffff&icon_color=2196F3&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=myvesseraphin&show_icons=true&theme=transparent&title_color=2196F3&text_color=ffffff&icon_color=2196F3&hide_border=true&count_private=true&include_all_commits=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myvesseraphin&layout=compact&theme=transparent&title_color=2196F3&text_color=ffffff&icon_color=2196F3&hide_border=true" height="150" />
 </p>
 
@@ -64,11 +64,8 @@ I am a Software Engineering student at **Rwanda Coding Academy** specializing in
 <a href="mailto:myvesseraphin@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/manzi-shimwa-yves-seraphin">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-</a>
-<a href="https://twitter.com/yourusername">
-  <img src="https://skillicons.dev/icons?i=twitter" width="40" />
+<a href="https://instagram.com/serap_hin2010">
+  <img src="https://skillicons.dev/icons?i=instagram" width="40" />
 </a>
 </p>
 
